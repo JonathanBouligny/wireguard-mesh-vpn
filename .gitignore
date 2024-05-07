@@ -7,6 +7,7 @@
 *.dll
 *.so
 *.dylib
+wireguard-cni
 
 # Test binary, built with `go test -c`
 *.test
